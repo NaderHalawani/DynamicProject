@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <?php
     session_start();
     if (!isset($_SESSION["username"])){
@@ -12,6 +11,8 @@
         die('Error decoding JSON file');
     }
 ?>
+<!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
