@@ -1,0 +1,26 @@
+[
+    {
+        "firstname": "ali",
+        "lastname": "ali",
+        "username": "ali",
+        "password": "ali",
+        "gender": "male",
+        "dob": "2003-02-01"
+    },
+    {
+        "firstname": "a",
+        "lastname": "a",
+        "username": "a",
+        "password": "a",
+        "gender": "male",
+        "dob": "2003-02-01"
+    },
+    {
+        "firstname": "nader",
+        "lastname": "halawani",
+        "username": "nader34",
+        "password": "123",
+        "gender": "male",
+        "dob": "2003-02-01"
+    }
+]

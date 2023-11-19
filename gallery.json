@@ -1,0 +1,13 @@
+[
+    {"id": "sman", "src": "images/sman.jpg", "alt": "Spiderman"},
+    {"id": "bman", "src": "images/bman.jpg", "alt": "Batman"},
+    {"id": "cpman", "src": "images/cpman.jpg", "alt": "Captain America"},
+    {"id": "drstrange", "src": "images/drstrange.jpg", "alt": "Doctor Strange"},
+    {"id": "hulk", "src": "images/hulk.jpg", "alt": "Hulk"},
+    {"id": "iman", "src": "images/iman.jpg", "alt": "Iron Man"},
+    {"id": "spman", "src": "images/spman.jpg", "alt": "Spiderman"},
+    {"id": "thanos", "src": "images/thanos.jpg", "alt": "Thanos"},
+    {"id": "thor", "src": "images/thor.jpg", "alt": "Thor"},
+    {"id": "wman", "src": "images/wman.jpg", "alt": "Wonder Woman"}
+  ]
+  
